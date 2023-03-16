@@ -11,7 +11,7 @@ Speak to a personal assistant backed up by gpt-3
 
 # Demo
 
-https://www.youtube.com/watch?v=4up6d9W6tFc
+Uploading Langchain + Streamlit Demo.mp4…
 
 # Reference
 
