@@ -7,11 +7,11 @@ Speak to a personal assistant backed up by gpt-3
 
 - [Python](https://python.org)
 - [Langchain](https://langchain.readthedocs.io/)
-- Streamlit(https://streamlit.io/)
+- [Streamlit](https://streamlit.io/)
 
 # Demo
 
-> link to youtube demo video
+https://www.youtube.com/watch?v=4up6d9W6tFc
 
 # Reference
 
