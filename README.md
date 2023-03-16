@@ -1,8 +1,10 @@
 # langchain-streamlit-demo
 
-This demo showcases the enhancement that connecting LLMs to services Google Search can allow.
+>This demo showcases the enhancement that connecting LLMs to services Google Search can allow.
 
-This demo uses audio as input. The audio is then transcribed using OpenAI's Whisper model. This transcribed text is then used to prompt Open AI's GPT-3, but not just the regular GPT-3, one that has access to Google Search. It's able to determine whether answering the prompt requires a Google search for fact checks.
+>This demo uses audio as input. The audio is then transcribed using OpenAI's Whisper model. This transcribed text is then used to prompt Open AI's GPT-3, but not just the regular GPT-3, one that has access to Google Search.
+
+>It's able to determine whether answering the prompt requires a Google search for fact checks.
 
 [Read article on LinkedIn](https://www.linkedin.com/pulse/introducing-langchain-connect-amplify-power-llms-dahiru-ibrahim/?trackingId=W2AN8vwlQR%2BPOpT90iyGSw%3D%3D)
 
